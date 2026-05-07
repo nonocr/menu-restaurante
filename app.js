@@ -289,3 +289,10 @@ const cats = new Set(dishes.map(d => d.cat)).size;
 	return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+/* ════════════════════════════════════════════════════════════
+	INICIO
+   ════════════════════════════════════════════════════════════ */
+	window.addEventListener('DOMContentLoaded', () => {
+	initFirebase();
+	});
+
