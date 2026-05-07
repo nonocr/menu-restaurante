@@ -82,4 +82,8 @@ header {
     transition: background .2s, color .2s;
     letter-spacing: 0.03em;
 }
+.tab-btn.active {
+    background: var(--accent);
+    color: #fff;
+}
 
