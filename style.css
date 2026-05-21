@@ -34,7 +34,7 @@ body {
 
 /*  Header  */
 header {
-
+    background: var(--ink);
     color: var(--cream);
     padding: 1.5rem 2rem;
     display: flex;

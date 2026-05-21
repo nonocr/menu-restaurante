@@ -1,4 +1,16 @@
-
+/* ════════════════════════════════════════════════════════════
+   FIREBASE — CONFIGURACIÓN DEL PROYECTO
+   ════════════════════════════════════════════════════════════ */
+const firebaseConfig = {
+  apiKey: "AIzaSyD8Sem9qUW6hsobu5YpeWN_M8VDX_LU5Cs",
+  authDomain: "menu-restaurante-e2d7f.firebaseapp.com",
+  databaseURL: "https://menu-restaurante-e2d7f-default-rtdb.firebaseio.com",
+  projectId: "menu-restaurante-e2d7f",
+  storageBucket: "menu-restaurante-e2d7f.firebasestorage.app",
+  messagingSenderId: "676342375738",
+  appId: "1:676342375738:web:c36219e9d16ed3193c9c03",
+  measurementId: "G-1PKG4RP41X"
+};
 
 /* ════════════════════════════════════════════════════════════
    CATEGORÍAS — edita aquí para agregar o cambiar categorías
